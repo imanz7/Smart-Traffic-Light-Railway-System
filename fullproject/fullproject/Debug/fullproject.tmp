@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\FullProject.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\Debug\FullProject.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>FullProject.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>FullProject.map</FILE>
+  <FILE>FullProject.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\FullProject.asm</FILE><LINE>9</LINE></Reset>
+  <TIMER_OVF><FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\FullProject.asm</FILE><LINE>109</LINE></TIMER_OVF>
+  <main><FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\FullProject.asm</FILE><LINE>18</LINE></main>
+  <USART_init><FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\FullProject.asm</FILE><LINE>42</LINE></USART_init>
+  <ADC_init><FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\FullProject.asm</FILE><LINE>33</LINE></ADC_init>
+  <ADC_read><FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\FullProject.asm</FILE><LINE>51</LINE></ADC_read>
+  <ADC_wait><FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\FullProject.asm</FILE><LINE>58</LINE></ADC_wait>
+  <subl><FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\FullProject.asm</FILE><LINE>75</LINE></subl>
+  <USART_tx><FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\FullProject.asm</FILE><LINE>68</LINE></USART_tx>
+  <LED_BLUE><FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\FullProject.asm</FILE><LINE>92</LINE></LED_BLUE>
+  <LED_GREEN><FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\FullProject.asm</FILE><LINE>82</LINE></LED_GREEN>
+  <timer><FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\FullProject.asm</FILE><LINE>102</LINE></timer>
+  <delay><FILE>D:\Documents\1819 SEM1\Digital System and Microprocessor\MicroP Project\fullproject\fullproject\FullProject.asm</FILE><LINE>104</LINE></delay>
+ </LABELS>
+</ASSEMBLER_INFO>
